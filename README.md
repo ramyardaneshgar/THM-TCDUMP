@@ -2,16 +2,6 @@
 Command-line packet forensics using Tcpdump to filter, inspect, and analyze network traffic in PCAP files for protocol-specific insights and anomaly detection.
 
 By Ramyar Daneshgar 
-Certainly. Below is your updated walkthrough rewritten in the **first person**, walking the reader through how I technically solved each task, highlighting **investigative logic**, **tool usage**, and **cybersecurity relevance**, using “I” throughout.
-
----
-
-# **#THM-TCPDUMP – Packet Forensics with Tcpdump**
-
-**Command-line packet forensics using Tcpdump to filter, inspect, and analyze network traffic in PCAP files for protocol-specific insights and anomaly detection.**
-**By Ramyar Daneshgar**
-
----
 
 ### **Task 2: Basic Packet Capture**
 
